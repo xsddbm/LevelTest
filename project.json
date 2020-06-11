@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "LevelTest",
+  "uuid": "c7fabd0b-7ebe-4b64-a3e4-23a0f597aedd",
+  "version": "2.3.4",
+  "id": "43469fac-5999-44be-abf8-29963c1e47c4",
+  "isNew": false
+}

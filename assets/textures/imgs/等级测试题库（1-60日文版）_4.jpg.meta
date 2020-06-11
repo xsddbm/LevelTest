@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b63d4132-b21f-4379-9778-0a877380c898",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2480,
+  "height": 3507,
+  "platformSettings": {},
+  "subMetas": {
+    "等级测试题库（1-60日文版）_4": {
+      "ver": "1.0.4",
+      "uuid": "37043dd2-0a07-4dfd-9ea4-cd7780fef168",
+      "rawTextureUuid": "b63d4132-b21f-4379-9778-0a877380c898",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2480,
+      "height": 3507,
+      "rawWidth": 2480,
+      "rawHeight": 3507,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
